@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Order Table</title>
+    <style>
+        table {
+            margin: 15px 15px;
+            text-align: center;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 15px;
+            text-align: justify;
+        }
+
+        button {
+            margin: 100px 15px;
+        }
+    </style>
+</head>
+
+<body>
+    <table id="order-table">
+        <thead>
+            <tr>
+                <th>StoreID</th>
+                <th>SalesPersonID</th>
+                <th>CdID</th>
+                <th>PricePaid</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <button id="create-btn" style="margin:100px 15px">Create</button>
+    <button id="submit-one-btn" style="margin:100px 15px">Submit One</button>
+    <button id="submit-500-btn" style="margin:100px 15px">Submit 500</button>
+    <button id="selectLatest-btn" style="margin:100px 15px">Select Latest (By Date)</button>
+    <button id="selectMaxSalesPer-btn" style="margin:100px 15px">Select SalesPerson With Max Sales</button>
+
+</body>
+<script src="main.js"></script>
+
+</html>

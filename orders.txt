@@ -1,0 +1,5 @@
+{"StoreId":98007,"SalesPersonId":7,"CdId":321654,"PricePaid":9,"Date":"4/11/2023, 12:00:59 PM"}
+{"StoreId":98055,"SalesPersonId":13,"CdId":654321,"PricePaid":5,"Date":"4/11/2023, 12:09:06 PM"}
+{"StoreId":98077,"SalesPersonId":12,"CdId":123654,"PricePaid":9,"Date":"4/11/2023, 12:11:46 PM"}
+{"StoreId":98007,"SalesPersonId":7,"CdId":123456,"PricePaid":11,"Date":"4/11/2023, 12:13:09 PM"}
+{"StoreId":98011,"SalesPersonId":19,"CdId":123456,"PricePaid":9,"Date":"4/11/2023, 12:13:14 PM"}
